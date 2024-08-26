@@ -19,5 +19,4 @@ Poc和Exp均来自互联网，请在虚拟机内测试，仅供交流学习使�
 
 From：
 [https://ssd-disclosure.com/ssd-advisory-google-chrome-rce/](https://ssd-disclosure.com/ssd-advisory-google-chrome-rce/)
-
 [https://developer.chrome.com/release-notes/128?hl=zh-cn](https://developer.chrome.com/release-notes/128?hl=zh-cn)
