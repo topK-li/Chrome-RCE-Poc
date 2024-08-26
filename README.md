@@ -18,5 +18,5 @@ This can be considered a variant bug of CVE-2024-2887 discovered by Manfred Paul
 Poc和Exp均来自互联网，请在虚拟机内测试，仅供交流学习使用，
 
 From：
-[https://ssd-disclosure.com/ssd-advisory-google-chrome-rce/](https://ssd-disclosure.com/ssd-advisory-google-chrome-rce/)
+[https://ssd-disclosure.com/ssd-advisory-google-chrome-rce/](https://ssd-disclosure.com/ssd-advisory-google-chrome-rce/)  
 [https://developer.chrome.com/release-notes/128?hl=zh-cn](https://developer.chrome.com/release-notes/128?hl=zh-cn)
